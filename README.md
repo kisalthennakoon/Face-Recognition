@@ -10,7 +10,7 @@ This project implements a face recognition system using OpenCV and machine learn
 - [License](#license)
 
 ## Introduction
-The Face Recognition System is a machine learning project that utilizes OpenCV’s Cascade Classifier and the EigenFaceRecognizer for recognizing faces. The system can capture images from a camera feed, detect faces, and recognize known individuals based on a pre-trained model. This project is designed for real-time recognition, making it suitable for applications in security and personal identification.
+The Face Recognition System is a machine learning project that utilizes OpenCV’s Cascade Classifier and the EigenFaceRecognizer for recognizing faces. The system can capture images from a camera feed (Real time face video), detect faces, and recognize known individuals based on a pre-trained model. This project is designed for real-time recognition, making it suitable for applications in security and personal identification.
 
 ## Features
 - **Real-Time Face Detection**: Detects faces in real-time using OpenCV’s Cascade Classifier.
