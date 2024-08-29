@@ -29,4 +29,6 @@ To run this project, you need the following libraries:
 2. Import libraries from first block.
 3. In the second block change output folder variable for each new user wich you need to recognize. (output_folder = "data/at/new_user_name")
 4. Run remaining blocks as instructed above cells.
+
+Note: press any key to exit from camera window
    
